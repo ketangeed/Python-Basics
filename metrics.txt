@@ -1,2 +1,0 @@
-Accuracy: 94.5%
-Loss: 0.12
