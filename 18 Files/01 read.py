@@ -5,8 +5,8 @@
 
 f = open("ketan.txt", "r")
 
-conetent = f.read()
+content = f.read()
 
-print(conetent)
+print(content)
 
 f.close()
